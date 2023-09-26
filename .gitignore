@@ -94,7 +94,7 @@ $RECYCLE.BIN/
 # Machine Learning Data
 */data/
 *data/
-.csv
-.txt
+*.csv
+*.txt
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,jupyternotebooks,venv
