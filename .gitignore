@@ -91,4 +91,10 @@ $RECYCLE.BIN/
 # environment
 .env
 
+# Machine Learning Data
+*/data/
+data/
+*test*
+*train*
+*valid*
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,jupyternotebooks,venv
